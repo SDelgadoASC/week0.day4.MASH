@@ -49,6 +49,21 @@
      - Salary (include negative numbers)
      - How old will user live until
      - Career
+13. Have other students play test your game. Fix any issues that arise.
+- Once you’re done, go over the Battleroom! challenge questions you may have missed or were confused on.
+- Look over these worksheets to help fill in any gaps from this week. We’ll be reviewing these on Monday!
+   - *NOTE: this is NOT homework. From the past two years, students have REQUESTED worksheets, so I have provided them. Use them at your discretion!*
+   - [Worksheet: Variables](https://docs.google.com/document/d/1NFH-9oMMxF3OOXiip0J1QQr5IqcdzudbW28IGXhRciw/edit?usp=sharing)
+     - [Worksheet: Variables (Answers)](https://docs.google.com/document/d/1kJHMaaxc0JsfRK9kTXSveWgZ68d6R5wV3-0SAu2JtCs/edit?usp=sharing)
+   - [Worksheet: Arrays](https://docs.google.com/document/d/182XxytSNzySXnKOS0bmMDGMHqDvPqcwLKJNTbr74s1Y/edit?usp=sharing)
+     - [Worksheet: Arrays (Answers)](https://docs.google.com/document/d/1VfKA18Cs2QO5mUZY4WNlD4_q6sf1KYq9ZxNvyvsi3nQ/edit?usp=sharing)
+   - [Worksheet: Loops](https://docs.google.com/document/d/1dhigvTqBtSZ2hDeCZW5Re1KACJhXzyC9_aNwTGn5WtQ/edit?usp=sharing)
+     - [Worksheet: Loops (Answers)](https://docs.google.com/document/d/1lcziRMrAfGcJ9rNApYpsGLCLatONfnilURRhAO2CAXY/edit?usp=sharing)
+   - [Worksheet: Conditionals](https://docs.google.com/document/d/1garEwkWLY9SIpoYo4jHVAALHt5aglhEbKTO9sSWwlBY/edit?usp=sharing)
+     - [Worksheet: Conditionals (Answers)](https://docs.google.com/document/d/1NjirFgAGivp95uCNKX8Ngwa4-TboQT5jqV4WysllPag/edit?usp=sharing)
+   - [Worksheet: Functions](https://docs.google.com/document/d/1AcY2BhltCvZp90Ekpi0-Iby0Xz9ZErGo6D16pK5jjU8/edit?usp=sharing)
+     - [Worksheet: Functions (Answers)](https://docs.google.com/document/d/1tFmbjKF83NI54uxuOsBJtwI9L9cFL72jci68VTCFUH4/edit?usp=sharing)
+
 
 ## Extra Credit
 - If the user gets a specific outcome of home, number of children, car, etc. `console.log()` a unique message.
